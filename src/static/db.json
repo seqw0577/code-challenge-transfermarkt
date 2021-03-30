@@ -1,0 +1,104 @@
+{
+    "players": [{
+            "id": "2",
+            "age": 26,
+            "name": "Joshua Kimmich",
+            "clubId": "27",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/161056-1570373037.jpg?lm=1",
+            "dateOfBirth": 792198000,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "3",
+            "age": 31,
+            "name": "Thomas Müller",
+            "clubId": "27",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/58358-1540568657.jpg?lm=1",
+            "dateOfBirth": 621640800,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "5",
+            "age": 27,
+            "name": "Emre Can",
+            "clubId": "16",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/119296-1567162394.jpg?lm=1",
+            "dateOfBirth": 758329200,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "7",
+            "age": 24,
+            "name": "Milot Rashica",
+            "clubId": "86",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/291739-1535124288.jpg?lm=1",
+            "dateOfBirth": 835912800,
+            "nationality": "Kosovo"
+        },
+        {
+            "id": "4534436",
+            "age": 25,
+            "name": "Timo Werner",
+            "clubId": "631",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/170527-1471002206.jpg?lm=1",
+            "dateOfBirth": 826066800,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "2345",
+            "age": 32,
+            "name": "Nils Petersen",
+            "clubId": "60",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/42936-1533733736.jpg?lm=1",
+            "dateOfBirth": 597366000,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "7867856",
+            "age": 22,
+            "name": "Stephan Ambrosius",
+            "clubId": "41",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/327536-1616505656.jpg?lm=1",
+            "dateOfBirth": 913935600,
+            "nationality": "Deutschland"
+        },
+        {
+            "id": "78674335",
+            "age": 19,
+            "name": "Christos Tzolis",
+            "clubId": "1091",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/451677-1613847730.jpg?lm=1",
+            "dateOfBirth": 1012345200,
+            "nationality": "Griechenland"
+        }
+    ],
+    "clubs": [{
+            "id": 27,
+            "name": "Bayern München"
+        },
+        {
+            "id": 86,
+            "name": "Werder Bremen"
+        },
+        {
+            "id": 16,
+            "name": "Borussia Dortmund"
+        },
+        {
+            "id": 631,
+            "name": "FC Chelsea"
+        },
+        {
+            "id": 60,
+            "name": "FC Freiburg"
+        },
+        {
+            "id": 41,
+            "name": "Hamburger SV"
+        },
+        {
+            "id": 1091,
+            "name": "PAOK Thessaloniki"
+        }
+    ]
+}
